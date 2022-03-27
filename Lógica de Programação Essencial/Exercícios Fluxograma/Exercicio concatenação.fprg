@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Marcelo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-03-17 09:04:43 "/>
+        <attribute name="created" value="TWFyY2VsbztNQVJDRUxPLVBDOzIwMjItMDMtMTc7IjA4OjQzOjIxICI7MjYwNA=="/>
+        <attribute name="edited" value="TWFyY2VsbztNQVJDRUxPLVBDOzIwMjItMDMtMTc7IjA5OjA0OjQzICI7MzsyNzE2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <declare name="media, nota1, nota2, nota3, nota4" type="Real" array="False" size=""/>
+            <output expression="&quot;Qual o seu nome?&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Quais foram as suas notas?&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="media" newline="True"/>
+            <output expression="&quot;Seu nome &#233;: &quot; &amp; nome &amp; &quot; e sua m&#233;dia foi:&quot; &amp; media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
