@@ -4,7 +4,7 @@
 
 ### Olá! Neste curso foi ensinado passo a passo de como entender e utilizar o Git e GitHub, realizando exposição prática
 
-### Para um melhor entendimento recomendo a realização do Curso INTRODUÇÃO AO GIT E AO GITHUB :
+### Para um melhor entendimento recomendo a realização do Curso INTRODUÇÃO AO GIT E AO GITHUB da DIO :
 
 - ##### Link do Curso :
 
