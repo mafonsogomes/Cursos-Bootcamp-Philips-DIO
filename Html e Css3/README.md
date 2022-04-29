@@ -24,7 +24,7 @@
 
 
 
-##### Nesse curso realizams a criação de um pequeno site com todo conteúdo ensinado, será postado nesse repositório o meu estudo.
+##### Nesse curso realizamos a criação de um pequeno site com todo conteúdo ensinado, será postado nesse repositório o meu estudo.
 
 
 
