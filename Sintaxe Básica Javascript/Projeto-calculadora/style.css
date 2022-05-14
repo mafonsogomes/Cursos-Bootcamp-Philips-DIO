@@ -1,0 +1,21 @@
+#head {
+    background-color: blue;
+    height: 100px;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aperte {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+}
